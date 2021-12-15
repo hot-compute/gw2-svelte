@@ -36,13 +36,17 @@
     {/each}
   </ul>
   
-    <h2>List of Achievements by ID</h2>
-    <ul>
-    {#each $achievements as achievement}
-      <li>{achievement}</li>
-    {/each}
-    </ul>
-  </main>
+  <h2>List of Achievements by ID</h2>
+  <ul>
+  {#each $achievements as achievement}
+    <li>{achievement}</li>
+  {/each}
+  </ul>
+
+  <h2>Festival's</h2>
+  <p>Check out this <a href="https://guildjen.com/2021/12/14/wintersday-festival-achievements-guide/?fbclid=IwAR37Npe0TcBhkgqxTy8S2f1Gs7hSBGCGQS5N_XVMxlIGAWwyQgeUxkDp9Tk">Winter's Day Achievement Guide!</a></p>>
+  
+</main>
   
   <style>
   

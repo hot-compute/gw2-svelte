@@ -44,7 +44,7 @@
   </ul>
 
   <h2>Festival's</h2>
-  <p>Check out this <a href="https://guildjen.com/2021/12/14/wintersday-festival-achievements-guide/?fbclid=IwAR37Npe0TcBhkgqxTy8S2f1Gs7hSBGCGQS5N_XVMxlIGAWwyQgeUxkDp9Tk">Winter's Day Achievement Guide!</a></p>>
+  <p>Check out this <a href="https://guildjen.com/2021/12/14/wintersday-festival-achievements-guide/?fbclid=IwAR37Npe0TcBhkgqxTy8S2f1Gs7hSBGCGQS5N_XVMxlIGAWwyQgeUxkDp9Tk">Winter's Day Achievement Guide!</a></p>
   
 </main>
   
